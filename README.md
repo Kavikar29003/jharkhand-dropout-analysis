@@ -44,7 +44,7 @@ The central finding: **Jharkhand's official dropout statistics significantly und
 **Live interactive dashboard (Tableau Public):**
 > https://public.tableau.com/app/profile/kajal.kumari6766/viz/JharkhandSchoolDropoutAnalysis/Dashboard2?publish=yes
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](charts/dashboard_screenshot.png)
 
 ---
 
