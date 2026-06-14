@@ -40,7 +40,7 @@ The central finding: **Jharkhand's official dropout statistics significantly und
 ---
 ## Budget Allocation Model
 
-![Budget Model](dashboard/Budget_Allocation_Model.png)
+![Budget Model](dashboard/Budget_allocation_model.png)
 
 A data-driven budget allocation framework that determines optimal 
 distribution of education funding across all 24 Jharkhand districts 
