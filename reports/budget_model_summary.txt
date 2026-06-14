@@ -1,0 +1,44 @@
+
+=================================================================
+JHARKHAND EDUCATION BUDGET ALLOCATION MODEL
+Total Budget: ₹500 crore  |  24 Districts  |  UDISE+ 2024-25
+=================================================================
+
+TOP 5 PRIORITY DISTRICTS
+─────────────────────────────────────────────────────────────────
+Rank  District                    Priority  Budget (Cr)  Students Retained
+─────────────────────────────────────────────────────────────────
+1     Pakaur                          71.8         33.4              7,209
+2     Palamu                          70.2         32.6             42,100
+3     Sahibganj                       69.8         32.5             14,214
+4     Giridih                         61.1         28.4             51,010
+5     Dumka                           59.8         27.8             12,641
+
+─────────────────────────────────────────────────────────────────
+STATEWIDE INTERVENTION REQUIREMENTS
+─────────────────────────────────────────────────────────────────
+Teachers needed (to reach PTR 30):     17,036 teachers
+Cost of teacher hiring:                 ₹1533.2 crore/year
+
+Smart classrooms needed (to reach 30%): 8,814 classrooms
+Cost of classroom installation:          ₹352.6 crore (one-time)
+
+Total intervention cost:                 ₹1885.8 crore
+Estimated students retained annually:   326,052 students
+
+─────────────────────────────────────────────────────────────────
+KEY INSIGHT
+─────────────────────────────────────────────────────────────────
+With ₹500 crore allocated by Priority Index:
+- Top 5 crisis districts receive 31.0% of total budget
+- Estimated 326,052 students retained statewide per year
+- Average cost per student retained: ₹15,334
+
+MOST EFFICIENT DISTRICT:
+Giridih
+— lowest cost per student retained
+
+HIGHEST PRIORITY:
+Pakaur (Priority Index: 71.8)
+— receives ₹33.4 crore (6.7% of budget)
+=================================================================
