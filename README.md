@@ -60,8 +60,8 @@ to maximise dropout reduction.
 **Live interactive dashboard (Tableau Public):**
 > https://public.tableau.com/app/profile/kajal.kumari6766/viz/JharkhandSchoolDropoutAnalysis/Dashboard2?publish=yes
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
-![Dashboard Preview](dashboard/Budget_Allocation_Model.png)
+![Dashboard Preview](dashboard/dropout_dashboard_screenshot.png)
+![Dashboard Preview](dashboard/Budget Allocation Model.png)
 ---
 
 ## Project Structure
