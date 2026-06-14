@@ -38,14 +38,30 @@ The central finding: **Jharkhand's official dropout statistics significantly und
 - Tribal (ST) proportion: r = +0.03 (almost zero — not the real cause)
 
 ---
+## Budget Allocation Model
+
+![Budget Model](dashboard/budget_model_screenshot.png)
+
+A data-driven budget allocation framework that determines optimal 
+distribution of education funding across all 24 Jharkhand districts 
+to maximise dropout reduction.
+
+**Model outputs:**
+- District priority ranking (Crisis Score 60% + Efficiency Score 40%)
+- Budget allocation for any total spend (₹100–1000 crore)
+- Teacher hiring cost estimates per district
+- Smart classroom investment requirements
+- Estimated students retained per crore invested
+
+---
 
 ## Dashboard
 
 **Live interactive dashboard (Tableau Public):**
 > https://public.tableau.com/app/profile/kajal.kumari6766/viz/JharkhandSchoolDropoutAnalysis/Dashboard2?publish=yes
 
-![Dashboard Preview](charts/dashboard_screenshot.png)
-
+![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](dashboard/Budget_Allocation_Model.png)
 ---
 
 ## Project Structure
@@ -53,20 +69,21 @@ The central finding: **Jharkhand's official dropout statistics significantly und
 ```
 jharkhand-dropout-analysis/
 ├── data/
-│   ├── raw/                          ← 24 district PDFs + state PDF (UDISE+)
-│   └── jharkhand_master_data.csv     ← Compiled master dataset (24 rows × 37 cols)
-├── notebooks/
-│   └── jharkhand_eda.ipynb           ← EDA notebook (Week 2)
+│   ├── jharkhand_master_data.csv        ← already uploaded
+│   └── jharkhand_budget_allocation.csv  ← add this now
 ├── scripts/
-│   └── extract_udise_data.py         ← PDF extraction script
+│   ├── extract_udise_data.py            ← already uploaded
+│   └── budget_allocation_model.py       ← add this now
+├── notebooks/
+│   └── jharkhand_eda.ipynb              ← already uploaded
 ├── charts/
-│   ├── chart1_district_rankings.png
-│   ├── chart2_correlations.png
-│   └── chart3_infrastructure_heatmap.png
+│   ├── chart1_district_rankings.png     ← already uploaded
+│   ├── chart2_correlations.png          ← already uploaded
+│   ├── chart3_infrastructure_heatmap.png ← already uploaded
+│   └── chart4_budget_allocation.png     ← add this now
 ├── dashboard/
-│   └── jharkhand_dropout.twbx        ← Tableau workbook
-├── report/
-│   └── insight_report.pdf            ← 1-page policy brief
+│   ├── dashboard_screenshot.png         ← save screenshot of dropout dashboard
+│   └── budget_model_screenshot.png      ← save screenshot of budget model
 └── README.md
 ```
 
